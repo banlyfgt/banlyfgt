@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/banlyfgt"><img src="https://img.shields.io/github/followers/banlyfgt?label=Followers&style=for-the-badge&logo=github&color=6366f1&labelColor=0f172a" alt="followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=banlyfgt&label=Profile+views&style=for-the-badge&color=38bdf8&labelColor=0f172a" alt="profile views" />
+<img src="https://img.shields.io/badge/Open%20to-collaboration-38bdf8?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0f172a" alt="open to collaboration" />
 <a href="mailto:banly.master@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a" alt="email" /></a>
 
 </div>
